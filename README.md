@@ -40,8 +40,9 @@ The **Ecommerce Data Analysis** project focuses on understanding and visualizing
 
 ## Connect/Links
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-abbas-k/)
+- [LinkedIn Profile](https://www.linkedin.com/in/mohamed-abbas-k/)
 - [Dataset Link]((https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
+- mail: mohamedabbaskalandar@gmail.com
 
 
 ---
