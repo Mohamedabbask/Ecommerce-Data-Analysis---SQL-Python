@@ -21,12 +21,6 @@ Unlock the potential hidden within your ecommerce data! This project dives deep 
 
 ---
 
-## Dataset link
-
-[Dataset Link]((https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
-
----
-
 ## Project Overview
 
 The **Ecommerce Data Analysis** project focuses on understanding and visualizing ecommerce performance. From analyzing customer orders and purchase patterns to tracking year-on-year growth and revenue generation, this project provides an in-depth analysis of your business data. Whether you're a data enthusiast, a business owner, or a data scientist, this project offers actionable insights into key ecommerce metrics, empowering better business decisions.
@@ -44,4 +38,11 @@ The **Ecommerce Data Analysis** project focuses on understanding and visualizing
 ---
 
 
+## Connect/Links
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-abbas-k/)
+[Dataset Link]((https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
+
+
+---
 
