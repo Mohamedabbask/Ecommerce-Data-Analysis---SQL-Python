@@ -23,7 +23,7 @@ Unlock the potential hidden within your ecommerce data! This project dives deep 
 
 ## Project Overview
 
-The **Ecommerce Data Analysis** project focuses on understanding and visualizing ecommerce performance. From analyzing customer orders and purchase patterns to tracking year-on-year growth and revenue generation, this project provides an in-depth analysis of your business data. Whether you're a data enthusiast, a business owner, or a data scientist, this project offers actionable insights into key ecommerce metrics, empowering better business decisions.
+The **Ecommerce Data Analysis** project focuses on understanding and visualizing ecommerce performance. From analyzing customer orders and purchase patterns to tracking year-on-year growth and revenue generation, this project provides an in-depth analysis of your business data. 
 
 ---
 
@@ -37,6 +37,14 @@ The **Ecommerce Data Analysis** project focuses on understanding and visualizing
 
 ---
 
+## Insights
+
+- 99.9% orders' payments were done through installments.
+- States SP, RJ, MG hold top 3 customers per state as 41746, 12852, 11635 respectively.
+- Bed Table bath and Health Beauty product categories hold 10+% in sales.
+- There is negligible correlation between Product Price and Number of orders.
+- 20% year-on-year growth between 2017 & 2018.
+- 0% in customer retention who made purchases within 6 months of their First Purchase.
 
 ## Connect/Links
 
